@@ -13,7 +13,7 @@ Preperation for Certified Kubernetes Application Developer (CKAD)
 ## Table of contents
 
 1. [Introduction](00_kubernetes_architecture.md) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-2. [Kubernetes Architecture](00_kubernetes_architecture.md) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+2. [Kubernetes Architecture](00_kubernetes_architecture.md) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/35)
 3. [Build](00_kubernetes_architecture.md) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 4. [Design](00_kubernetes_architecture.md) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 5. [Deployment and Configuration](00_kubernetes_architecture.md) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
