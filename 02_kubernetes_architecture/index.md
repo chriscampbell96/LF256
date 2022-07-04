@@ -151,3 +151,8 @@ There are several add-ons which have become essential to a typical production cl
 - The endpoints, namespace, and serviceaccounts operators each manage the eponymous resources for Pods.
 
 ### Single IP per Pod
+- A Pod represents a group of co-located containers with some associated data volumes. All containers in a Pod share the same network namespace.
+
+### CNI (Container Network Interface) Network configuration
+- To provide container networking, Kubernetes is standardizing on the Container Network Interface (CNI) specification.
+- CNI is an emerging specification with associated libraries to write plugins that configure container networking and remove allocated resources when the container is deleted. Its aim is to provide a common interface between the various networking solutions and container runtimes. As the CNI specification is language-agnostic, there are many plugins from Amazon ECS, to SR-IOV, to Cloud Foundry, and more.
